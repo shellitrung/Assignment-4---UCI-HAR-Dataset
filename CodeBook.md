@@ -1,3 +1,6 @@
+#Code Book 
+This code book outlines the steps and variables for Assignment 4 in the Getting and Cleaning Data course.
+
 #Introduction
 
 1. All data files were loaded into R.
