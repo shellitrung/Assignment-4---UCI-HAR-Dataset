@@ -10,9 +10,13 @@
 
 #Variables
 Data files: `x_train`, `x_test`, `y_train`, `y_test`, `subject_test`, `subject_train`. `activity` outlines 6 activity names and `features` shows all the measurement names for the x datasets.
+
 Data sets: `x`, `y` and `subject` is the merged datasets from the data files.
+
 Mean|Standard deviation: `mean_std_features` is a vector that stores the mean and standard deviations of `x` dataset.
+
 Tidy data: `all_data` is the combined data of the 3 datasets with all naming cleaned.
+
 Averages data: `average_set` is the final average dataset for combination of variables.
 
 
